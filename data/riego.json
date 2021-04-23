@@ -1,14 +1,24 @@
 [
 	{
-		"first_name": "John",
-		"last_name": "Brave",
-		"email": "john@gmail.com",
-		"name": "John Brave"
-	},
-	{
-		"first_name": "Lilly",
-		"last_name": "Dave",
-		"email": "hi@lillydave.net",
-		"name": "Lilly Dave"
+		"fechaIn": "01-04-2021",
+		"fechaFi": "30-04-2021",
+		"fecha": "30-04-2021",
+		"data": [
+			{
+				"ventas": 8500000,
+				"contribucion": 2125000,
+				"margen": 25,
+				"punto": 1200000,
+				"ganancias": 925000,
+				"proFi": [
+					{
+						"lucro": 4,
+						"operacion": 75,
+						"impuestos": 5,
+						"pagoDue": 16
+					}
+				]
+			}
+		]
 	}
 ]
